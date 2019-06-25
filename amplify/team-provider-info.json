@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplambda-ddb-dev-20190625075247-authRole",
+            "UnauthRoleArn": "arn:aws:iam::322741286472:role/amplambda-ddb-dev-20190625075247-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::322741286472:role/amplambda-ddb-dev-20190625075247-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplambda-ddb-dev-20190625075247-deployment",
+            "UnauthRoleName": "amplambda-ddb-dev-20190625075247-unauthRole",
+            "StackName": "amplambda-ddb-dev-20190625075247",
+            "StackId": "arn:aws:cloudformation:eu-west-1:322741286472:stack/amplambda-ddb-dev-20190625075247/75dce290-970d-11e9-94da-0295fc50fbd8"
+        }
+    }
+}
