@@ -1,29 +1,6 @@
-# aws-amplify-lambda-dynamodb
+# AWS Amplify and Lambda to insert multiple json objects into DynamoDB
+ 
+## How-To
 
-## Project setup
-```
-yarn install
-```
+You can find the tutorial on my [blog](https://regenrek.com/posts/using-aws-lambda-insert-multiple-json-dynamodb/)
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
